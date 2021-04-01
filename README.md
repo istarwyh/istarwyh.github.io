@@ -1,2 +1,2 @@
 # istarwyh.gihub.io
-YiHui Wang's Resume
+Hi!Nice to meet you. This is [YiHui Wang's Resume](https://istarwyh.github.io/)
